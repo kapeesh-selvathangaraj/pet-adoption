@@ -1,0 +1,82 @@
+[
+    {
+        "email": "john.doe@example.com",
+        "phoneNo": "123-456-7890",
+        "livingSituation": "Apartment with balcony",
+        "previousExperience": "Owned a cat for 3 years",
+        "familyComposition": "1 adult",
+        "petId": "6432f9a73e1d8c001c345001"
+    },
+    {
+        "email": "jane.smith@example.com",
+        "phoneNo": "234-567-8901",
+        "livingSituation": "House with large yard",
+        "previousExperience": "Fostered multiple dogs",
+        "familyComposition": "2 adults, 2 children",
+        "petId": "6432f9a73e1d8c001c345002"
+    },
+    {
+        "email": "alice.jones@example.com",
+        "phoneNo": "345-678-9012",
+        "livingSituation": "Condo with shared yard",
+        "previousExperience": "Owned a bird",
+        "familyComposition": "1 adult, 1 child",
+        "petId": "6432f9a73e1d8c001c345003"
+    },
+    {
+        "email": "bob.brown@example.com",
+        "phoneNo": "456-789-0123",
+        "livingSituation": "Townhouse",
+        "previousExperience": "Volunteered at animal shelter",
+        "familyComposition": "2 adults",
+        "petId": "6432f9a73e1d8c001c345004"
+    },
+    {
+        "email": "carol.wilson@example.com",
+        "phoneNo": "567-890-1234",
+        "livingSituation": "Farmhouse",
+        "previousExperience": "Grew up with multiple pets",
+        "familyComposition": "1 adult",
+        "petId": "6432f9a73e1d8c001c345005"
+    },
+    {
+        "email": "david.miller@example.com",
+        "phoneNo": "678-901-2345",
+        "livingSituation": "Apartment, no yard",
+        "previousExperience": "First-time pet owner",
+        "familyComposition": "1 adult",
+        "petId": "6432f9a73e1d8c001c345006"
+    },
+    {
+        "email": "emma.taylor@example.com",
+        "phoneNo": "789-012-3456",
+        "livingSituation": "House with fenced yard",
+        "previousExperience": "Owned a rabbit",
+        "familyComposition": "2 adults, 1 child",
+        "petId": "6432f9a73e1d8c001c345007"
+    },
+    {
+        "email": "frank.harris@example.com",
+        "phoneNo": "890-123-4567",
+        "livingSituation": "Small apartment",
+        "previousExperience": "Owned a dog for 10 years",
+        "familyComposition": "1 adult",
+        "petId": "6432f9a73e1d8c001c345008"
+    },
+    {
+        "email": "grace.moore@example.com",
+        "phoneNo": "901-234-5678",
+        "livingSituation": "House with garden",
+        "previousExperience": "Owned multiple cats",
+        "familyComposition": "2 adults",
+        "petId": "6432f9a73e1d8c001c345009"
+    },
+    {
+        "email": "henry.white@example.com",
+        "phoneNo": "012-345-6789",
+        "livingSituation": "Apartment with small patio",
+        "previousExperience": "Has had fish and birds",
+        "familyComposition": "1 adult",
+        "petId": "6432f9a73e1d8c001c345010"
+    }
+]
